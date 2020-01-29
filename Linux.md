@@ -8,5 +8,6 @@ A fundamental understanding to terminal and Linux commands is crucial for succes
 * RM - RM is used to remove objects whether they are files or directories. You can use rm *file or directory name* to remove any unwanted information.
 * History - History is crucial to documenting changes to a given document as it outlines commands that were used depending on what you are viewing. You can use history to view this information.
 * Home Directory - The home directory is used to act as a repository for a given logged in user. It acts in the way GitHub does to house a user's data in one given place that can be navigated or edited to create new data.
-
+* Completing File Paths - The tab key is used to speed up the entering of information or file paths in Linux. It can automatically complete what you want to type or suggest things to you based off of what you are trying to do. If you have a file named applepie.md typing applep with tab may give you the desired file path without finishing typing.
+* Command History - Using the up and down arrows on your keyboard, you can easily navigate your already executed commands as if a history of what you have done was already at your fingertips. For example when updating documents, you can easily go through add, commit and push to update Git with a few key presses.
 
