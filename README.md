@@ -10,7 +10,9 @@
 * Added Sources - Jamie
 * Added Linux terminology - Jamie
 * Linked documents in README.md
+* Added Project Description - Jamie
 
 **Index**
 * [Linux](Linux.md)
 * [Sources](SOURCES.md)
+* [Description] (ProjectDescription.md)
