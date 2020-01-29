@@ -15,4 +15,4 @@
 **Index**
 * [Linux](Linux.md)
 * [Sources](SOURCES.md)
-* [Description] (ProjectDescription.md)
+* [Description] (https://github.com/jamiec83/mini-project-1/blob/master/ProjectDescription.md)
