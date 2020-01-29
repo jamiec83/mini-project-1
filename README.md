@@ -5,5 +5,7 @@
 2. chuck146 - Steven Morales
 
 **Changes:**
+*Added License - Jamie
+*Created initial readme document - Jamie
 
 
