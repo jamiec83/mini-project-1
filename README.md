@@ -12,5 +12,5 @@
 * Linked documents in README.md
 
 **Index**
-[Linux](Linux.md)
-[Sources](SOURCES.md)
+* [Linux](Linux.md)
+* [Sources](SOURCES.md)
