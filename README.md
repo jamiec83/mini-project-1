@@ -7,5 +7,10 @@
 **Changes:**
 * Added License - Jamie
 * Created initial readme document - Jamie
+* Added Sources - Jamie
+* Added Linux terminology - Jamie
+* Linked documents in README.md
 
-
+**Index**
+[Linux](Linux.md)
+[Sources](SOURCES.md)
