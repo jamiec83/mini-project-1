@@ -11,6 +11,7 @@
 * Added Linux terminology - Jamie
 * Linked documents in README.md
 * Added Project Description - Jamie
+* Explanation of gitFlow workflow - Steven
 
 **Index**
 * [Linux](Linux.md)
