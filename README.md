@@ -10,7 +10,7 @@
 * Added Sources - Jamie & Steven
 * Added Linux terminology - Jamie
 * Linked documents in README.md - Jamie & Steven
-* Added Project Description - Jamie
+* Added Project Description - Jamie & Steven
 * Explanation of gitFlow workflow - Steven
 
 **Index**
