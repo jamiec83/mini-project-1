@@ -2,8 +2,7 @@
 ### Git commands and terminology
 
 **Repository-**
-*is a virtual storegage of your project. It allows you to save versions of your code, which you can access when needed.**
-
+*is a virtual storegage of your project. It allows you to save versions of your code, which you can access when needed.*
 
 **Clone -**
 *git clone is used to create a copy or clone of remote repositories. You pass git clone a repository URL. Git supports a few different network protocols and corresponding URL formats. Once a developer has obtained a working copy, all version control operations are managed through their local repository.*
@@ -20,9 +19,6 @@
 **Merge  -**
 *Merging takes the changes from one branch (in the same repository or from a
 fork), and applies them into another. This often happens as a pull request (which can be thought of as a request to merge), or via the command line. A merge can be done automatically via a pull request via the GitHub web interface if there are no conflicting changes, or can always be done via the command line.*
-
-**Checkout -**
-*
 
 **Push/Pull -**
 *Pushing refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub. For instance, if you change something locally, you'd want to then push those changes so that others may access them.
