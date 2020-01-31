@@ -7,9 +7,9 @@
 **Changes:**
 * Added License - Jamie
 * Created initial readme document - Jamie
-* Added Sources - Jamie
+* Added Sources - Jamie & Steven
 * Added Linux terminology - Jamie
-* Linked documents in README.md
+* Linked documents in README.md - Jamie & Steven
 * Added Project Description - Jamie
 * Explanation of gitFlow workflow - Steven
 
