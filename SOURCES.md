@@ -10,5 +10,7 @@
 * [Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Copying and Pasting](https://danlimerick.wordpress.com/2011/07/23/git-for-windows-tip-how-to-copy-and-paste-into-bash/)
 * [Adding License AFTER setup](https://stackoverflow.com/questions/31639059/how-to-add-license-to-an-existing-github-project)
+* [GitFlow Terms](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+* [Github glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary)
 
 
