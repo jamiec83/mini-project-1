@@ -19,5 +19,5 @@
 * [Description](ProjectDescription.md)
 * [Git Flow](git_commands_and_terminology.md)
 
-![GIT Process] (https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/4883/original/git-and-github-diagram-turing.png)
+![GIT Process](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/4883/original/git-and-github-diagram-turing.png)
 
