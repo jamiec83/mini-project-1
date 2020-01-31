@@ -17,3 +17,5 @@
 * [Linux](Linux.md)
 * [Sources](SOURCES.md)
 * [Description](ProjectDescription.md)
+* [Git Flow](git_commands_and_terminology.md)
+
